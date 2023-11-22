@@ -1,16 +1,12 @@
 <!-- Header Image -->
-<p align="center">
-  <img src="(https://vividscience.org/wp-content/uploads/2019/02/Data-Viz-D.jpg)" alt="Header Image">
-</p>
+
 
 <!-- Introduction -->
 <h1 align="center">Hey there! 👋 I'm Vishal Chauhan J</h1>
 <h3 align="center">Data Alchemist 📊 | Machine Learning Enthusiast 🤖</h3>
 
 <!-- Animated GIF -->
-<p align="center">
-  <img src="your_animated_gif_url" alt="Animated GIF">
-</p>
+
 
 <h3 align="left">Welcome to my data playground! 💡 Let's unravel insights together!</h3>
 
