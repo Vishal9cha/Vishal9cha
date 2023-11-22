@@ -2,7 +2,7 @@
 
 
 <!-- Introduction -->
-<h1 align="center">Hey there! 👋 I'm Vishal Chauhan J</h1>
+<h1 align="center">Hey there! 👋 I'm Vishal Chauhan </h1>
 <h3 align="center">Data Alchemist 📊 | Machine Learning Enthusiast 🤖</h3>
 
 <!-- Animated GIF -->
