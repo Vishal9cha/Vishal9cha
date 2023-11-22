@@ -25,7 +25,7 @@
 - 💬 Fluent in the ancient art of **Unveiling Insights via Data Exploration**. Your data has secrets—I'm here to expose them!
 
 <!-- 📫 Contact Information -->
-- 📫 Let's connect: [LinkedIn]([your_linkedin_profile_url](https://www.linkedin.com/in/vishal-chauhan-8abaa922a/)) | 🐦 
+- 📫 Let's connect: [LinkedIn] (https://www.linkedin.com/in/vishal-chauhan-8abaa922a/) | 🐦 
 
 <!-- ⚡ Fun Tidbit -->
 - ⚡ Fun fact: **Data analysts are the wizards of the digital realm. Armed with data wands and statistical spells, we unveil the hidden magic in your datasets, shaping them into powerful insights and strategies.** 🔮✨🔍
