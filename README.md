@@ -1,12 +1,19 @@
-<!-- Header Image -->
-
 
 <!-- Introduction -->
 <h1 align="center">Hey there! 👋 I'm Vishal Chauhan </h1>
-<h3 align="center">Data Analyst 📊 | Machine Learning Enthusiast 🤖</h3>
+
+
+<!-- Header Image -->
+<div align="center">
+  <img src="https://media.tenor.com/RWG3yLsLjAQAAAAC/evacomics-kelvin.gif" alt="Alt text" width="500" height="400"/>
+</div>
+
+<h3 align="center">Data Analyst 📊 | Machine Learning 🤖</h3>
 
 <!-- Animated GIF -->
-
+<div align="center">
+  <img src="https://media3.giphy.com/media/iPj5oRtJzQGxwzuCKV/giphy.gif?cid=ecf05e47f6fho6dkam04ifcimrfpucf8fx8wwnvh8woo51iz&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Alt text" width="300" />
+</div>
 
 <h3 align="left">Welcome to my data playground! 💡 Let's unravel insights together!</h3>
 
@@ -25,7 +32,7 @@
 - 💬 Fluent in the ancient art of **Unveiling Insights via Data Exploration**. Your data has secrets—I'm here to expose them!
 
 <!-- 📫 Contact Information -->
-- 📫 Let's connect: [LinkedIn] (https://www.linkedin.com/in/vishal-chauhan-8abaa922a/) | 🐦 
+- 📫 Let's connect: [Email] (vishalchauhan13579@gmail.com) | 🐦 
 
 <!-- ⚡ Fun Tidbit -->
 - ⚡ Fun fact: **Data analysts are the wizards of the digital realm. Armed with data wands and statistical spells, we unveil the hidden magic in your datasets, shaping them into powerful insights and strategies.** 🔮✨🔍
