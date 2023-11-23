@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <div align="center">
-  <img src="https://media.tenor.com/RWG3yLsLjAQAAAAC/evacomics-kelvin.gif" alt="Alt text" width="700" height="600"/>
+  <img src="https://media.tenor.com/RWG3yLsLjAQAAAAC/evacomics-kelvin.gif" alt="Alt text" width="730" height="530"/>
 </div>
 
 <!-- Introduction -->
