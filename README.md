@@ -39,7 +39,7 @@
 
 ### Programming Languages:
 - **Python (🐍):**
-  - Python is the backbone of our data analysis. Its versatility and rich set of libraries, such as pandas and scikit-learn, enable seamless data manipulation, statistical analysis, and insightful visualizations. Python plays a pivotal role in extracting actionable insights and discovering patterns within our datasets..
+  - Python is the backbone of our data analysis. Its versatility and rich set of libraries, such as pandas and numpy, enable seamless data manipulation, statistical analysis, and insightful visualizations. Python plays a pivotal role in extracting actionable insights and discovering patterns within our datasets..
 
 ### Database:
 - **SQL (🐘):**
